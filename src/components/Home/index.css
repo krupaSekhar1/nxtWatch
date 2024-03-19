@@ -1,0 +1,12 @@
+.bg{
+    height: 100vh;
+    width: cover;
+    display: flex;
+    flex-direction: row;
+}
+.c3{
+    height: 100vh;
+    width: 30vh;
+    display: flex;
+    flex-direction: column;
+}

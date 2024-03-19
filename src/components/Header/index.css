@@ -1,0 +1,22 @@
+.logo {
+  height: 50px;
+  margin: 10px;
+}
+
+.profile {
+  height: 50px;
+  margin: 10px;
+}
+.c{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.c1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+button{
+  margin: 10px;
+}
